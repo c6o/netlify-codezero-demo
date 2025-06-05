@@ -10,8 +10,6 @@ Codezero Teamspace.
 
 ```sh
 npm install -g netlify-cli
-export CZ_ORG_ID=
-export CZ_SPACE_ID=
-export CZ_ORG_API_KEY=
+npm install
 netlify dev
 ```
