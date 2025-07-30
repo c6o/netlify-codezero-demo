@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@c6o/codezero-agent": "^1.0.2",
-    "@netlify/functions": "^4.1.10",
+    "@netlify/functions": "^4.1.15",
     "@tailwindcss/typography": "^0.5.16",
     "class-variance-authority": "^0.7.1",
     "framer-motion": "^12.23.10",
